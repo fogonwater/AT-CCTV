@@ -4,7 +4,7 @@ Locations of Auckland Transport CCTV cameras based on the PDF document contained
 
 I converted the table to CSV and Geojson format.
 
-- CSV table has 2763 entries
-- Geojson has 2299 entries (some cameras in source document do not have lat/lng coordinates)
+- [CSV table](https://github.com/fogonwater/AT-CCTV/blob/master/akl_cams.csv) has 2763 entries
+- [Geojson](https://github.com/fogonwater/AT-CCTV/blob/master/akl_cams.geojson) [(raw)](https://raw.githubusercontent.com/fogonwater/AT-CCTV/master/akl_cams.geojson) has 2299 entries (some cameras in source document do not have lat/lng coordinates)
 
 [View the 2229 entries with lat/lng coordinates on a Google map](https://fusiontables.google.com/embedviz?q=select+col2+from+1rRGtCE7nN3-mTcoZb0zjMmUo1j73sN9D4Kc8mdLL&viz=MAP&h=false&lat=-36.82500019824303&lng=174.76058675580907&t=1&z=11&l=col2&y=2&tmplt=2&hml=TWO_COL_LAT_LNG).
